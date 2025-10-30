@@ -21,4 +21,10 @@ def hi():
         </body>
     </html>
     """
+def smth(num1, num2):
+    return num1 + num2
+print(smth(1, 2))
+
+
+
 
